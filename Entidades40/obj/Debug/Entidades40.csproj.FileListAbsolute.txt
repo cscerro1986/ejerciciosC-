@@ -1,0 +1,6 @@
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Entidades40\bin\Debug\Entidades40.dll
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Entidades40\bin\Debug\Entidades40.pdb
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Entidades40\obj\Debug\Entidades40.csprojAssemblyReference.cache
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Entidades40\obj\Debug\Entidades40.csproj.CoreCompileInputs.cache
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Entidades40\obj\Debug\Entidades40.dll
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Entidades40\obj\Debug\Entidades40.pdb

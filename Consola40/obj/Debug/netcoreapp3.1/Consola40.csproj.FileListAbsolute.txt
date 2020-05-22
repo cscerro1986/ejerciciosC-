@@ -1,0 +1,16 @@
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Consola40.exe
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Consola40.deps.json
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Consola40.runtimeconfig.json
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Consola40.runtimeconfig.dev.json
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Consola40.dll
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Consola40.pdb
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Entidades40.dll
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\bin\Debug\netcoreapp3.1\Entidades40.pdb
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.csprojAssemblyReference.cache
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.csproj.CoreCompileInputs.cache
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.AssemblyInfoInputs.cache
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.AssemblyInfo.cs
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.csproj.CopyComplete
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.dll
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.pdb
+C:\Users\Gisel Morel\Desktop\mi amor\Programacion2020\EjercicioC#\Entidades40\Consola40\obj\Debug\netcoreapp3.1\Consola40.genruntimeconfig.cache
